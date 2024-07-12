@@ -1,0 +1,20 @@
+00:00:00.211374 VirtualBox GUI VM Selector Window 7.0.18 r162988 win.amd64 (May  2 2024 10:02:33) release log
+00:00:00.211377 Log opened 2024-07-12T07:33:22.632060200Z
+00:00:00.211377 Build Type: release
+00:00:00.211382 OS Product: Windows 10
+00:00:00.211383 OS Release: 10.0.19045
+00:00:00.211383 OS Service Pack: 
+00:00:00.227224 DMI Product Name: System Product Name
+00:00:00.231030 DMI Product Version: System Version
+00:00:00.231069 Firmware type: UEFI
+00:00:00.231459 Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:00.231483 Host RAM: 14267MB (13.9GB) total, 9304MB (9.0GB) available
+00:00:00.231487 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+00:00:00.231487 Process ID: 5248
+00:00:00.231488 Package type: WINDOWS_64BITS_GENERIC
+00:00:00.231694 Qt version: 5.15.2
+00:00:00.232413 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:00.309413 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.309517 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:24.194627 GUI: UICommon: Handling aboutToQuit request..
+00:00:24.776855 GUI: UICommon: aboutToQuit request handled!

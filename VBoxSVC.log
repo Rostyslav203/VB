@@ -1,0 +1,256 @@
+00:00:00.005113 main     VirtualBox COM Server 7.0.18 r162988 win.amd64 (May  2 2024 10:02:33) release log
+00:00:00.005115 main     Log opened 2024-07-12T07:30:49.835476600Z
+00:00:00.005116 main     Build Type: release
+00:00:00.005130 main     OS Product: Windows 10
+00:00:00.005131 main     OS Release: 10.0.19045
+00:00:00.005132 main     OS Service Pack: 
+00:00:00.030841 main     DMI Product Name: System Product Name
+00:00:00.043927 main     DMI Product Version: System Version
+00:00:00.043964 main     Firmware type: UEFI
+00:00:00.044553 main     Secure Boot: Disabled
+00:00:00.044583 main     Host RAM: 14267MB (13.9GB) total, 9434MB (9.2GB) available
+00:00:00.044599 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.044599 main     Process ID: 5340
+00:00:00.044600 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.162456          VirtualBox: object creation starts
+00:00:00.162804          Home directory: 'C:\Users\rosti\.VirtualBox'
+00:00:00.162898          Installed Drivers:
+00:00:00.166877            C:\Windows\system32\DRIVERS\VBoxSup.sys (Version: 7.0.18.12988)
+00:00:00.167206            C:\Windows\system32\DRIVERS\VBoxUSBMon.sys (Version: 7.0.18.12988)
+00:00:00.167525            C:\Windows\system32\DRIVERS\VBoxNetAdp6.sys (Version: 7.0.18.12988)
+00:00:00.168634            C:\Windows\system32\DRIVERS\VBoxNetLwf.sys (Version: 7.0.18.12988)
+00:00:00.170899          usbLibGetDevices: Starting USB device enumeration
+00:00:00.190483          usbLibGetDevices: Found 2 USB devices, 0 captured
+00:00:00.572307          HostDnsMonitor: initializing
+00:00:00.578326          HostDnsMonitor: updating information
+00:00:00.578374          HostDnsMonitor: old information
+00:00:00.578375            no server entries
+00:00:00.578376            no domain set
+00:00:00.578376            no search string entries
+00:00:00.578377          HostDnsMonitor: new information
+00:00:00.578377            server 1: 192.168.31.1
+00:00:00.578378            no domain set
+00:00:00.578378            no search string entries
+00:00:00.626795          VD: VDInit finished with VINF_SUCCESS
+00:00:00.628934          VirtualBox: object created
+00:00:00.747372          Saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.782572          Finished saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml"
+00:00:00.782961          Saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.829041          Finished saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml"
+00:00:00.829334          Saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.860321          Finished saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml"
+00:00:01.575370          Saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:01.614385          Finished saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml"
+00:00:02.140645          Saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:02.208219          Finished saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml"
+00:00:02.567479          Saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:02.628177          Finished saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml"
+00:02:32.824373          Saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:02:32.846460          Finished saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml"
+00:02:32.846703          Saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:02:32.875654          Finished saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml"
+00:02:32.875865          Saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:02:32.898122          Finished saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml"
+00:02:39.309671 ExtPackInst ExtPack: Executing 'C:\Program Files\Oracle\VirtualBox\VBoxExtPackHelperApp.exe' '--display-info-hack' 'hwnd=0xc012e' 'install' '--base-dir' 'C:\Program Files\Oracle\VirtualBox\ExtensionPacks' '--cert-dir' 'C:\Program Files\Oracle\VirtualBox\ExtPackCertificates' '--name' 'Oracle VM VirtualBox Extension Pack' '--tarball' 'C:/Users/rosti/Downloads/Oracle_VM_VirtualBox_Extension_Pack-7.0.18.vbox-extpack' '--sha-256' 'cab1abad478679fc34a0c5cb4a6d3566edc20e3c54cbed39c8e895d8cfad3ee2'
+00:02:42.671209 ExtPackInst ExtPack: enmReason=1 iStatus=0 stderr='rcExit=RTEXITCODE_SUCCESS
+00:02:42.671212 ExtPackInst '
+00:02:42.736310 ExtPackInst ExtPackManager: Found extension pack 'Oracle VM VirtualBox Extension Pack'.
+00:02:42.758402 ExtPackInst ExtPackManager: Successfully installed extension pack 'Oracle VM VirtualBox Extension Pack'.
+00:02:42.759012 ExtPackInst OCI: Local config file 'C:\Users\rosti\.VirtualBox\oci_config' does not exist
+00:02:42.759185 ExtPackInst OCI: Original config file 'C:\Users\rosti\.oci\config' does not exist
+00:02:42.759194 ExtPackInst OCI: Reading profiles finished with status ERROR_SUCCESS
+00:02:42.759237 ExtPackInst ExtPack: Created cloud provider 'OCI' (hrc=ERROR_SUCCESS)
+00:02:48.688647          Saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:02:48.761433          Finished saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml"
+00:02:57.798066          Saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:02:57.836672          Finished saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml"
+00:03:00.319367          Saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:03:00.358586          Finished saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml"
+00:03:03.045864          Saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:03:03.093766          Finished saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml"
+00:03:03.667310          Saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:03:03.759565          Finished saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml"
+00:03:05.442284          Saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:03:05.486885          Finished saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml"
+00:03:06.828810          Saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:03:06.854824          Finished saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml"
+00:03:09.080908          Saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:03:09.133305          Finished saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml"
+00:03:11.174216          Saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:03:11.213483          Finished saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml"
+00:03:15.677180          Saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:03:15.725269          Finished saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml"
+00:03:51.906720          Saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:03:51.952632          Finished saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml"
+00:03:54.297978          Saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:03:54.326409          Finished saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml"
+00:03:58.394438          Saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:03:58.428526          Finished saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml"
+00:04:02.645696          Saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:04:02.676686          Finished saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml"
+00:07:54.466019          Saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:07:54.506792          Finished saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml"
+00:10:36.802392          Saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:10:36.847316          Finished saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml"
+00:12:53.871233          Saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:12:53.907254          Finished saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml"
+00:13:23.884489          Saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:13:23.917814          Finished saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml"
+00:13:23.919265          Saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:13:23.952731          Finished saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml"
+00:14:38.500015          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={7682d5eb-f00e-44f1-8ca2-99d08b1cd607} aComponent={VirtualBoxWrap} aText={Could not find a registered machine named '{00000000-0000-0000-0000-000000000000}'}, preserve=false aResultDetail=0
+00:15:34.152544 createBase Saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:15:34.198786 createBase Finished saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml"
+00:15:34.207694          Saving settings file "C:\Users\rosti\VirtualBox VMs\Linux teets\Linux teets.vbox" with version "1.19-windows"
+00:15:34.244840          Finished saving settings file "C:\Users\rosti\VirtualBox VMs\Linux teets\Linux teets.vbox"
+00:15:34.245128          Saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:15:34.274105          Finished saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml"
+00:15:34.278343          Saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:15:34.295953          Finished saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml"
+00:15:34.297225          Saving settings file "C:\Users\rosti\VirtualBox VMs\Linux teets\Linux teets.vbox" with version "1.19-windows"
+00:15:34.320573          Finished saving settings file "C:\Users\rosti\VirtualBox VMs\Linux teets\Linux teets.vbox"
+00:15:34.342623          Saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:15:34.365830          Finished saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml"
+00:15:34.704792          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:15:35.128528          Saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:15:35.201493          Finished saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml"
+00:15:47.689947          Saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:15:47.724737          Finished saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml"
+00:15:53.241901          Saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:15:53.272609          Finished saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml"
+00:15:55.395097          Saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:15:55.430356          Finished saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml"
+00:15:57.304779          Saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:15:57.337321          Finished saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml"
+00:15:59.701741          Saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:15:59.741878          Finished saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml"
+00:16:01.051863          Saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:16:01.084357          Finished saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml"
+00:16:03.099506          Saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:16:03.137008          Finished saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml"
+00:16:09.082138          Saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:16:09.119846          Finished saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml"
+00:16:18.325682          Saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:16:18.357832          Finished saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml"
+00:16:19.121267          Saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:16:19.188854          Finished saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml"
+00:16:26.653310          Saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:16:26.704760          Finished saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml"
+00:16:26.965986          Launched VM: 811454016 pid: 10192 (0x27d0) frontend: GUI/Qt name: Linux teets
+00:16:26.997090          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:16:30.401116          Saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:16:30.439167          Finished saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml"
+00:16:32.887951          Saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:16:32.944442          Finished saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml"
+00:16:33.384860          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:16:34.186670          Load [C:\Program Files\Oracle\VirtualBox\ExtensionPacks\Oracle_VM_VirtualBox_Extension_Pack\win.amd64\VBoxHostWebcam.DLL] vrc=VINF_SUCCESS
+00:16:34.325636          Saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:16:34.363107          Finished saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml"
+00:16:36.528082          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:16:36.952124          Saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:16:36.979757          Finished saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml"
+00:16:36.980663          Saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:16:37.008489          Finished saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml"
+00:16:37.009272          Saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:16:37.051792          Finished saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml"
+00:16:37.052608          Saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:16:37.085445          Finished saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml"
+00:16:37.086304          Saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:16:37.119031          Finished saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml"
+00:16:37.443599          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={The machine is not mutable or saved (state is Starting)}, preserve=false aResultDetail=0
+00:16:37.445581          Saving settings file "C:\Users\rosti\VirtualBox VMs\Linux teets\Linux teets.vbox" with version "1.19-windows"
+00:16:37.471338          Finished saving settings file "C:\Users\rosti\VirtualBox VMs\Linux teets\Linux teets.vbox"
+00:16:37.475937          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Starting)}, preserve=false aResultDetail=0
+00:16:37.480402          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Starting)}, preserve=false aResultDetail=0
+00:16:38.517754          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:16:38.551390          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:16:41.092410          Saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:16:41.118326          Finished saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml"
+00:16:41.392029          Saving settings file "C:\Users\rosti\VirtualBox VMs\Linux teets\Linux teets.vbox" with version "1.19-windows"
+00:16:41.428561          Finished saving settings file "C:\Users\rosti\VirtualBox VMs\Linux teets\Linux teets.vbox"
+00:16:41.465949          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:16:43.623585          Saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:16:43.661123          Finished saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml"
+00:17:40.111342          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:17:40.205649          Saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:17:40.236521          Finished saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml"
+00:17:40.237239          Saving settings file "C:\Users\rosti\VirtualBox VMs\Linux teets\Linux teets.vbox" with version "1.19-windows"
+00:17:40.260703          Finished saving settings file "C:\Users\rosti\VirtualBox VMs\Linux teets\Linux teets.vbox"
+00:17:40.269368          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:17:40.657281          Saving settings file "C:\Users\rosti\VirtualBox VMs\Linux teets\Linux teets.vbox" with version "1.19-windows"
+00:17:40.698128          Finished saving settings file "C:\Users\rosti\VirtualBox VMs\Linux teets\Linux teets.vbox"
+00:17:40.711100          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:17:43.859236          Saving settings file "C:\Users\rosti\VirtualBox VMs\Linux teets\Linux teets.vbox" with version "1.19-windows"
+00:17:43.927029          Finished saving settings file "C:\Users\rosti\VirtualBox VMs\Linux teets\Linux teets.vbox"
+00:17:43.937866          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:17:56.372599          Saving settings file "C:\Users\rosti\VirtualBox VMs\Linux teets\Linux teets.vbox" with version "1.19-windows"
+00:17:56.394132          Finished saving settings file "C:\Users\rosti\VirtualBox VMs\Linux teets\Linux teets.vbox"
+00:17:56.404159          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:18:35.105944          Saving settings file "C:\Users\rosti\VirtualBox VMs\Linux teets\Linux teets.vbox" with version "1.19-windows"
+00:18:35.176576          Finished saving settings file "C:\Users\rosti\VirtualBox VMs\Linux teets\Linux teets.vbox"
+00:18:35.200283          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:18:57.300711          Saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:18:57.318622          Finished saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml"
+00:18:58.058865          Saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:18:58.085702          Finished saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml"
+00:19:06.649345          Saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:19:06.711350          Finished saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml"
+00:19:10.668606          Saving settings file "C:\Users\rosti\VirtualBox VMs\Linux teets\Linux teets.vbox" with version "1.19-windows"
+00:19:10.734142          Finished saving settings file "C:\Users\rosti\VirtualBox VMs\Linux teets\Linux teets.vbox"
+00:19:10.747816          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:19:24.906161          Saving settings file "C:\Users\rosti\VirtualBox VMs\Linux teets\Linux teets.vbox" with version "1.19-windows"
+00:19:24.959882          Finished saving settings file "C:\Users\rosti\VirtualBox VMs\Linux teets\Linux teets.vbox"
+00:19:24.976767          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:19:26.246963          Saving settings file "C:\Users\rosti\VirtualBox VMs\Linux teets\Linux teets.vbox" with version "1.19-windows"
+00:19:26.316062          Finished saving settings file "C:\Users\rosti\VirtualBox VMs\Linux teets\Linux teets.vbox"
+00:19:26.325855          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:39:44.641600 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:39:49.649778 USBPROXY Getting USB descriptor (id 1) failed (dwErr=995) on hub USB#ROOT_HUB30#5&19706b00&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 2
+00:39:49.660261 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+00:39:49.954655 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:39:49.971408 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+00:41:04.030556          Saving settings file "C:\Users\rosti\VirtualBox VMs\Linux teets\Linux teets.vbox" with version "1.19-windows"
+00:41:04.077371          Finished saving settings file "C:\Users\rosti\VirtualBox VMs\Linux teets\Linux teets.vbox"
+00:41:04.088120          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:50:29.354815          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Stopping)}, preserve=false aResultDetail=0
+00:50:29.466771          Saving settings file "C:\Users\rosti\VirtualBox VMs\Linux teets\Linux teets.vbox" with version "1.19-windows"
+00:50:29.495021          Finished saving settings file "C:\Users\rosti\VirtualBox VMs\Linux teets\Linux teets.vbox"
+00:50:29.508217          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:50:30.697296          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:50:34.120386          Saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:50:34.157513          Finished saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml"
+00:50:35.736189          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine.}, preserve=false aResultDetail=0
+00:50:35.899383          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:50:36.128057          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:51:07.939904          Saving settings file "C:\Users\rosti\VirtualBox VMs\Linux teets\Linux teets.vbox" with version "1.19-windows"
+00:51:07.970125          Finished saving settings file "C:\Users\rosti\VirtualBox VMs\Linux teets\Linux teets.vbox"
+00:51:08.000517          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:51:08.015978          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:51:08.029041          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:53:16.326073          Saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:53:16.387202          Finished saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml"
+00:53:16.824288          Saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:53:16.880961          Finished saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml"
+00:53:41.248640          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={22363cfc-07da-41ec-ac4a-3dd99db35594} aComponent={CloudProviderWrap} aText={Could not find a cloud profile with name ''}, preserve=false aResultDetail=0
+00:53:58.820236          Launched VM: 793970288 pid: 3328 (0xd00) frontend: GUI/Qt name: Linux teets
+00:53:58.835203          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:54:04.167683          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:54:04.781200          Load [C:\Program Files\Oracle\VirtualBox\ExtensionPacks\Oracle_VM_VirtualBox_Extension_Pack\win.amd64\VBoxHostWebcam.DLL] vrc=VINF_SUCCESS
+00:54:06.567539          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:54:07.090344          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={The machine is not mutable or saved (state is Starting)}, preserve=false aResultDetail=0
+00:54:07.100995          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Starting)}, preserve=false aResultDetail=0
+00:54:08.140498          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:54:08.221429          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:58:41.813337          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Stopping)}, preserve=false aResultDetail=0
+00:58:41.838391          Saving settings file "C:\Users\rosti\VirtualBox VMs\Linux teets\Linux teets.vbox" with version "1.19-windows"
+00:58:41.870793          Finished saving settings file "C:\Users\rosti\VirtualBox VMs\Linux teets\Linux teets.vbox"
+00:58:41.893391          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:58:43.393559          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:59:26.620062          Saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:59:26.715866          Finished saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml"
+00:59:33.260541 main     VirtualBox: object deletion starts
+00:59:33.268866 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\rosti\VirtualBox VMs\Linux teets\Linux teets.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:59:33.279718 main     HostDnsMonitor: shutting down ...
+00:59:33.279823 main     HostDnsMonitor: shut down
+00:59:33.302283 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={7682d5eb-f00e-44f1-8ca2-99d08b1cd607} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:59:33.302681 main     VirtualBox: object deleted
