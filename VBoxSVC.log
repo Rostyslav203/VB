@@ -2,8 +2,8 @@
 00:00:00.005115 main     Log opened 2024-07-12T07:30:49.835476600Z
 00:00:00.005116 main     Build Type: release
 00:00:00.005130 main     OS Product: Windows 10
-00:00:00.005131 main     OS Release: 10.0.19045
-00:00:00.005132 main     OS Service Pack: 
+00:00:00.005131 main     OS Release: 10.0.19045 
+00:00:00.005132 main     OS Service Pack:   
 00:00:00.030841 main     DMI Product Name: System Product Name
 00:00:00.043927 main     DMI Product Version: System Version
 00:00:00.043964 main     Firmware type: UEFI
@@ -52,7 +52,8 @@
 00:02:32.875865          Saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
 00:02:32.898122          Finished saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml"
 00:02:39.309671 ExtPackInst ExtPack: Executing 'C:\Program Files\Oracle\VirtualBox\VBoxExtPackHelperApp.exe' '--display-info-hack' 'hwnd=0xc012e' 'install' '--base-dir' 'C:\Program Files\Oracle\VirtualBox\ExtensionPacks' '--cert-dir' 'C:\Program Files\Oracle\VirtualBox\ExtPackCertificates' '--name' 'Oracle VM VirtualBox Extension Pack' '--tarball' 'C:/Users/rosti/Downloads/Oracle_VM_VirtualBox_Extension_Pack-7.0.18.vbox-extpack' '--sha-256' 'cab1abad478679fc34a0c5cb4a6d3566edc20e3c54cbed39c8e895d8cfad3ee2'
-00:02:42.671209 ExtPackInst ExtPack: enmReason=1 iStatus=0 stderr='rcExit=RTEXITCODE_SUCCESS
+00:02:42.671209 ExtPackInst ExtPack: enmReason=1 iStatus=0 stderr='rcExit=RTEXITCODE_SUCCESS
+
 00:02:42.671212 ExtPackInst '
 00:02:42.736310 ExtPackInst ExtPackManager: Found extension pack 'Oracle VM VirtualBox Extension Pack'.
 00:02:42.758402 ExtPackInst ExtPackManager: Successfully installed extension pack 'Oracle VM VirtualBox Extension Pack'.
@@ -248,7 +249,7 @@
 00:58:43.393559          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
 00:59:26.620062          Saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
 00:59:26.715866          Finished saving settings file "C:\Users\rosti\.VirtualBox\VirtualBox.xml"
-00:59:33.260541 main     VirtualBox: object deletion starts
+00:59:33.260541 main     VirtualBox: object deletion startss
 00:59:33.268866 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\rosti\VirtualBox VMs\Linux teets\Linux teets.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
 00:59:33.279718 main     HostDnsMonitor: shutting down ...
 00:59:33.279823 main     HostDnsMonitor: shut down
